@@ -22,12 +22,12 @@ Welcome to my corner of GitHub, where creativity and data meet! 🚀
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Domninant Programming Languages
+## Dominant Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ##📈 Github Status
-![WellGr8's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WellGr8&layout=compact&theme=github_dark)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellGr8&layout=compact&theme=github_dark)
+
+![WellGr8's GitHub stats](https://github-readme-stats.vercel.app/api?username=WellGr8&theme=github_dark&show_icons=true)
 
 
 
