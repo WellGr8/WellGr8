@@ -38,11 +38,8 @@ Welcome to my GitHub space, where **data meets creativity** and **technology fue
 ## 📊 GitHub Analytics
 
 ![WellGr8's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WellGr8&theme=github_dark&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WellGr8&layout=compact)  
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WellGr8&layout=compact&theme=github_dark&show_icons=true)  
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
-> _"Where code meets canvas, and data tells a story."_
 
-🌐 [Portfolio Coming Soon] | 💬 Always open to new ideas and partnerships.
