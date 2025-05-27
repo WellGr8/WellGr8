@@ -28,7 +28,7 @@ Welcome to my corner of GitHub, where creativity and data meet! 🚀
 ##📈 Github Status
 
 ![WellGr8's GitHub stats](https://github-readme-stats.vercel.app/api?username=WellGr8&theme=github_dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellGr8&layout=compact)
 
 
 
