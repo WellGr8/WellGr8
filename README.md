@@ -1,33 +1,48 @@
-# 👋 Hello there! I’m @WellGr8
+# 👋 Welcome — I’m @WellGr8
 
-Welcome to my corner of GitHub, where creativity and data meet! 🚀
+Welcome to my GitHub space, where **data meets creativity** and **technology fuels expression**. 🚀
 
-- 🌟 **Interests**: I'm a passionate enthusiast of **cartoon and animation**, **data visualization**, and **Python programming**. If you love exploring new ways to present data or just want to chat about your favorite shows, you're in the right place!
+## 🌟 About Me
 
-- 📚 **Currently Learning**: Diving deep into **advanced data visualization** and **machine learning**. Always on the lookout for innovative methods to make data storytelling more engaging and insightful.
+- 🎨 **Passions**: I’m a strong enthusiast of **cartoon & animation**, **data visualization**, and **Python programming**. My work often blends storytelling with data—visuals that speak.
+- 📚 **Currently Learning**: Deep-diving into **advanced data visualization techniques** and **machine learning** to build impactful, engaging insights.
+- 🤝 **Collaboration**: Open to teaming up on **data-driven applications**, **creative Python projects**, or **visual design challenges**. Let’s make ideas tangible.
+- ⚡ **Fun Fact**: I enjoy incorporating animation aesthetics into my dashboards and scripts—expect bar charts with personality.
+- 😄 **Pronouns**: He/Him
 
-- 🤝 **Looking to Collaborate On**: Excited to team up on **data-driven projects**, **creative coding** ventures, and **cutting-edge visualizations**. If you have a cool idea or a challenging problem, let's tackle it together!
+---
 
-- 😄 **Pronouns**: **He/Him**
+## 🧠 Skills & Tools
 
-- ⚡ **Fun Fact**: I get a kick out of blending **cartoon and animation themes** into **data visualizations** and **Python scripts**. If you ever see a chart with a quirky twist, chances are, it’s my doing!
-
-## 👨‍💻 Programming & Development Skills and Knowledges
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🗃️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+### 🛠️ Dev Tools
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Dominant Programming Languages
+---
+
+## 🧭 Primary Language Focus
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-##📈 Github Status
+---
 
-![WellGr8's GitHub stats](https://github-readme-stats.vercel.app/api?username=WellGr8&theme=github_dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellGr8&layout=compact)
+## 📊 GitHub Analytics
 
+![WellGr8's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WellGr8&theme=github_dark&show_icons=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WellGr8&layout=compact)  
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+> _"Where code meets canvas, and data tells a story."_
+
+🌐 [Portfolio Coming Soon] | 💬 Always open to new ideas and partnerships.
