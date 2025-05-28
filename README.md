@@ -39,7 +39,7 @@ Welcome to my GitHub space, where **data meets creativity** and **technology fue
 
 ![WellGr8's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WellGr8&theme=github_dark&show_icons=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WellGr8&layout=compact&theme=github_dark&show_icons=true)  
-[![WellGr8's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=WellGr8&langs_count=5&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
